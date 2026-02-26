@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+
+# Flask
+instance/
+.webassets-cache
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+
+# Docker
+pgdata/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Migrations
+migrations/versions/*.pyc
+.claude
