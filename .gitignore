@@ -40,3 +40,4 @@ Thumbs.db
 # Migrations
 migrations/versions/*.pyc
 .claude
+oxen-code
